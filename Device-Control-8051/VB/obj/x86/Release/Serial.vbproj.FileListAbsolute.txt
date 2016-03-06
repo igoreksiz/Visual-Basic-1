@@ -1,0 +1,33 @@
+D:\alok\simulation\VB_NET\Test\Serial\bin\Release\Serial.exe.manifest
+D:\alok\simulation\VB_NET\Test\Serial\bin\Release\Serial.application
+D:\alok\simulation\VB_NET\Test\Serial\bin\Release\Serial.exe
+D:\alok\simulation\VB_NET\Test\Serial\bin\Release\Serial.pdb
+D:\alok\simulation\VB_NET\Test\Serial\bin\Release\Serial.xml
+D:\alok\simulation\VB_NET\Test\Serial\obj\x86\Release\ResolveAssemblyReference.cache
+D:\alok\simulation\VB_NET\Test\Serial\obj\x86\Release\Serial.FrmMain.resources
+D:\alok\simulation\VB_NET\Test\Serial\obj\x86\Release\Serial.Resources.resources
+D:\alok\simulation\VB_NET\Test\Serial\obj\x86\Release\GenerateResource.read.1.tlog
+D:\alok\simulation\VB_NET\Test\Serial\obj\x86\Release\GenerateResource.write.1.tlog
+D:\alok\simulation\VB_NET\Test\Serial\obj\x86\Release\Serial.exe.manifest
+D:\alok\simulation\VB_NET\Test\Serial\obj\x86\Release\Serial.application
+D:\alok\simulation\VB_NET\Test\Serial\obj\x86\Release\Serial.exe
+D:\alok\simulation\VB_NET\Test\Serial\obj\x86\Release\Serial.xml
+D:\alok\simulation\VB_NET\Test\Serial\obj\x86\Release\Serial.pdb
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\bin\Release\Serial.exe.manifest
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\bin\Release\Serial.application
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\bin\Release\Serial.exe
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\bin\Release\Serial.pdb
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\bin\Release\Serial.xml
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\obj\x86\Release\ResolveAssemblyReference.cache
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\obj\x86\Release\Serial.frmMain.resources
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\obj\x86\Release\Serial.Resources.resources
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\obj\x86\Release\GenerateResource.read.1.tlog
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\obj\x86\Release\GenerateResource.write.1.tlog
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\obj\x86\Release\Serial.exe.manifest
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\obj\x86\Release\Serial.application
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\obj\x86\Release\Serial.exe
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\obj\x86\Release\Serial.xml
+D:\alok\simulation\VB_NET\Serial Edit\Sample Turn On and Turn Off\obj\x86\Release\Serial.pdb
+F:\alok\EC\Keil\Device Switch VB.net\VB.net\Code\Sample Turn On and Turn Off\obj\x86\Release\Serial.exe
+F:\alok\EC\Keil\Device Switch VB.net\VB.net\Code\Sample Turn On and Turn Off\obj\x86\Release\Serial.xml
+F:\alok\EC\Keil\Device Switch VB.net\VB.net\Code\Sample Turn On and Turn Off\obj\x86\Release\Serial.pdb
